@@ -1,5 +1,6 @@
-**You can visit my tableau portfolio here!: https://public.tableau.com/app/profile/taylor.j.kulawik **
-**You can contact me via email: Taylorkulawik@gmail.com**
+**You can visit my tableau portfolio here!: https://public.tableau.com/app/profile/taylor.j.kulawik 
+
+**You can contact me via email: Taylorkulawik@gmail.com
 
 - 👋 Hi, I’m Taylor James Kulawik (@KulawikTJ), I am a senior at the University of Texas at San Antonio, my degree path is a B.S. in Computer Science: Concentrated in 
   Software Engineering/Data Science/and Cloud Computing. I also have a Minor in Business Administration!
